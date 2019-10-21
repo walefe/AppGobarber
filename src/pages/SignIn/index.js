@@ -48,7 +48,7 @@ export default function SignIn({ navigation }) {
           />
 
           <FormInput
-            icon="mail-outline"
+            icon="lock-outline"
             secureTextEntry
             placeholder="Sua senha secreta"
             ref={passwordRef}
